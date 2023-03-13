@@ -9,8 +9,8 @@ WordPress: installation, settings, content, navigation, using themes and plugins
 
     
 **Resources/Links**  
-  https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-quick-start-guide-joomla
-  https://www.joomlart.com/
+  https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-quick-start-guide-joomla  
+  https://www.joomlart.com/  
   https://chat.openai.com/chat
    
 **Estimated Hours**  
