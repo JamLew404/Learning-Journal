@@ -1,4 +1,4 @@
-**Week 7**  
+**Week 8**  
 WordPress: Developing Custom Themes  
   
 **Learning Activities**  
