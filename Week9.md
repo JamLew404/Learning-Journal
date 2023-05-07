@@ -15,6 +15,7 @@ To test this theory, I will divide a group of participants into two groups: Grou
   
 Explanation:  
 The theory is based on the idea that the brain consolidates new information during sleep. By studying before bed, the brain has a chance to process and store the information, leading to better retention and recall the next day. The test involves a controlled experiment with two groups of participants to see if studying before bed leads to better retention and recall compared to studying in the morning. The vocabulary quiz will serve as a measure of learning, and statistical analysis will be used to determine if the results are significant. If the results show that studying before bed leads to better retention and recall, this could have implications for learning strategies and study habits.  
+  
 **Resources/Links**  
 https://www.linkedin.com/learning/sass-essential-training/welcome?autoplay=true&resume=false&u=2223545  
 https://healthysleep.med.harvard.edu/healthy/matters/benefits-of-sleep/learning-memory  
